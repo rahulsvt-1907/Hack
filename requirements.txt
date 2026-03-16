@@ -1,0 +1,6 @@
+groq
+google-generativeai
+mistralai
+python-dotenv
+requests
+langchain-groq
