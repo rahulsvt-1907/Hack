@@ -4,3 +4,4 @@ mistralai
 python-dotenv
 requests
 langchain-groq
+langchain_mistralai
